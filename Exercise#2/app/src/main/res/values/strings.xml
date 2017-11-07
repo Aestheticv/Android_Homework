@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercise #2</string>
+    <string name="name">姓名：</string>
+    <string name="example_name">林小明</string>
+    <string name="blood_type">血型：</string>
+    <string name="education">學歷：</string>
+
+    <string-array name="edu_array">
+        <item>博士</item>
+        <item>碩士</item>
+        <item>大學</item>
+    </string-array>
+</resources>
